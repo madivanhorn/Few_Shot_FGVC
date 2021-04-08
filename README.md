@@ -1,4 +1,4 @@
-![birdtag](https://github.com/madivanhorn/Few_Shot_FGVC/assets/Kentucky_Warbler_ex.jpeg)
+![birdtag](https://github.com/madivanhorn/Few_Shot_FGVC/blob/main/assets/Kentucky_Warbler_ex.jpg)
 
 
 # Few-Shot Fine-Grained Visual Classification using Coarse-Grained Supervision
